@@ -2,7 +2,7 @@
 
 制定日: 2026年6月29日
 
-公開URL: `https://app-policies.github.io/privacy-policy-denki-tsushin-pass-app/`
+公開URL: `https://github.com/app-policies/privacy-policy-denki-tsushin-pass-app`
 
 ## アプリ
 
